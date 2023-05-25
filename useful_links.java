@@ -7,6 +7,7 @@
 Erlang, F#, Flutter, Fortran, Git, Go, Hacking and Security, Haskell, HTML, Java, JavaScript, Kotlin, Lua, Pascal, Perl,
 Php, Processing, Python, Q#, R, Ruby, Rust, Scala, SQL, Swift, UML, Xml) - There are all programming languages that are
 on this site.
+2. https://github.com/COLDPROYT/Cheat_sheets_Java - My repository, with hotkeys (some work only in IntelliJ) and hints for Java programmers
 
 */
 
